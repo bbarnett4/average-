@@ -1,44 +1,21 @@
-# Average
-> This is a simple C++ project that recieves the input of a series of integers and gets the sum and average from them. 
-
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+# Calculating Average and Sum
+> This is a simple C++ project calculates the average and sum of numbers. 
 
 ## General info
-This project is not complex by any means but it is a start to a wonderful career in coding.  This was a assignment for a course in college and once I began doing it I realized how useful it actaully is.  It basically uses pointers and arrays to help calculate a average. 
+This project asks the user to input numbers and it calculates the sum and average of all the numbers. if you were to type a negative integer it would stop the program and calculates the numebers already inputed. The purpose/ motivation for this project was to get a fair grade. It is a pretty cool concept of how you can use code to do math. This project uses many different types of code in order to do the project.  It mostly consists of array's and pointers.  This project requires not files in order to run it, just the user input. 
 
 ## Technologies
-* Dev C++
+* Built on Dev C++, you will need to download this program from https://sourceforge.net/projects/orwelldevcpp/ in order to run the project.
 
-## Setup
-You simply download Dev C++ from any secure site and once you have that download the code and compile and run. 
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+## Setup/ How to run the project
+You simply download Dev C++ from any secure site and once you have the program downloaded you then get the code from this github and compile and run the project. 
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+This project is finished. It could use some touch up but for it does work.
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+This project was an assignment. 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@bbarnett4] 
+Contact me at [barnett4@stu.jsu.edu]
