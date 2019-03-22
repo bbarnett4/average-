@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Average
+> This is a simple C++ project that recieves the input of a series of integers and gets the sum and average from them. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,18 +12,13 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+This project is not complex by any means but it is a start to a wonderful career in coding.  This was a assignment for a course in college and once I began doing it I realized how useful it actaully is.  It basically uses pointers and arrays to help calculate a average. 
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Dev C++
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+You simply download Dev C++ from any secure site and once you have that download the code and compile and run. 
 
 ## Code Examples
 Show examples of usage:
